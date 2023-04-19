@@ -1,5 +1,5 @@
 # sql-tutorial-parser
-Парсер, получающий все упражнения и их решения с сайта [sql-tutorila](http://www.sql-tutorial.ru/ru).
+Парсер, получающий все упражнения и их решения с сайта [sql-tutorial](http://www.sql-tutorial.ru/ru).
 По умолчанию полученная информация записывается в файл `result.json`
 ## Установка
 ### MS Windows
